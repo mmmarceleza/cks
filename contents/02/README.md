@@ -173,4 +173,4 @@ The ClusterComplianceReport is a cluster-scoped resource that represents the lat
 - [CIS Benchmark kubernetes EKS](https://aws.amazon.com/blogs/containers/introducing-cis-amazon-eks-benchmark/)
 - [Kube-bench](https://github.com/aquasecurity/kube-bench)
 - [Trivy Kubernetes Compliance Reports](https://aquasecurity.github.io/trivy/v0.45/docs/target/kubernetes/#compliance)
-- [Trivy Operator Kubernetes InfraAssessmentReport](https://aquasecurity.github.io/trivy-operator/v0.16.1/docs/crds/infraassessment-report/)
+- [Trivy Operator Kubernetes ClusterComplianceReport](https://aquasecurity.github.io/trivy-operator/v0.16.1/docs/crds/clustercompliance-report/)

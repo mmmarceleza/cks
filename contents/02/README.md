@@ -4,7 +4,7 @@
 
 | English | Portuguese |
 |----------|:-------------:|
-| * | * |
+| [![english](https://i.ytimg.com/vi/7NlPes7lz1Y/hqdefault.jpg)](https://youtu.be/7NlPes7lz1Y) | [![portuguese](https://img.youtube.com/vi/ncnFCvfdrxY/hqdefault.jpg)](https://youtu.be/ncnFCvfdrxY)
 
 ## What is CIS Benchmark?
 

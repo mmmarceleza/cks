@@ -5,8 +5,7 @@
 
 | English | Portuguese |
 |----------|:-------------:|
-| [![english](https://i.ytimg.com/vi/0thhPgkcG2Y/hqdefault.jpg)](https://youtu.be/0thhPgkcG2Y&t) | [![portuguese](https://img.youtube.com/vi/z1ZEKn4VVJw/hqdefault.jpg)](https://youtu.be/z1ZEKn4VVJw)
- |
+| [![english](https://i.ytimg.com/vi/0thhPgkcG2Y/hqdefault.jpg)](https://youtu.be/0thhPgkcG2Y&t) | [![portuguese](https://img.youtube.com/vi/z1ZEKn4VVJw/hqdefault.jpg)](https://youtu.be/z1ZEKn4VVJw) |
 
 ## References
 

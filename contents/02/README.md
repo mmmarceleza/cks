@@ -174,6 +174,3 @@ The ClusterComplianceReport is a cluster-scoped resource that represents the lat
 - [Kube-bench](https://github.com/aquasecurity/kube-bench)
 - [Trivy Kubernetes Compliance Reports](https://aquasecurity.github.io/trivy/v0.45/docs/target/kubernetes/#compliance)
 - [Trivy Operator Kubernetes InfraAssessmentReport](https://aquasecurity.github.io/trivy-operator/v0.16.1/docs/crds/infraassessment-report/)
-- [Lens](https://k8slens.dev/)
-- [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
-- [Trivy-Operator Lens Extension](https://github.c  om/aquasecurity/trivy-operator-lens-extension)

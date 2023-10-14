@@ -76,8 +76,8 @@ curl -L https://github.com/aquasecurity/kube-bench/releases/download/v0.6.2/kube
 
 tar -xvf kube-bench_0.6.2_linux_amd64.tar.gz
 ```
-
-Remember to check the release version on Github to download the latest version.
+> [!NOTE]
+> **Remember to check the release version on Github to download the latest version.**
 
 You can then run kube-bench directly:
 

@@ -1,3 +1,6 @@
 [submodule "contents/03/kubernetes-vagrant"]
 	path = contents/03/kubernetes-vagrant
 	url = git@github.com:mmmarceleza/kubernetes-vagrant.git
+[submodule "contents/03/kind"]
+	path = contents/03/kind
+	url = git@github.com:mmmarceleza/kind.git

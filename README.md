@@ -15,6 +15,7 @@
 # Table of Contents
 - [Introduction](contents/01/)
 - [CIS Benchmark](contents/02/)
+- [Install your own cluster](contents/03/)
 ---
 
 > [!IMPORTANT]  

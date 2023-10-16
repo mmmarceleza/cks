@@ -4,7 +4,7 @@
 
 | English | Portuguese |
 |----------|:-------------:|
-| [![english](https://i.ytimg.com/vi/xxxxxxxxx/hqdefault.jpg)](https://youtu.be/xxxxxxxx) | [![portuguese](https://img.youtube.com/vi/xxxxxxx/hqdefault.jpg)](https://youtu.be/xxxxxxx)
+| [![english](https://i.ytimg.com/vi/tZX_bgeQIJQ/hqdefault.jpg)](https://youtu.be/tZX_bgeQIJQ) | [![portuguese](https://img.youtube.com/vi/ETPOYG5VSrc/hqdefault.jpg)](https://youtu.be/ETPOYG5VSrc)
 
 
 ## References

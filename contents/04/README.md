@@ -4,7 +4,7 @@
 
 | English | Portuguese |
 |----------|:-------------:|
-| [![english](https://i.ytimg.com/vi/xxxxxxx/hqdefault.jpg)](https://youtu.be/xxxxxxx) | [![portuguese](https://img.youtube.com/vi/xxxxxxx/hqdefault.jpg)](https://youtu.be/xxxxxxx)
+| [![english](https://i.ytimg.com/vi/ehw5vKrxw0c/hqdefault.jpg)](https://youtu.be/ehw5vKrxw0c) | [![portuguese](https://img.youtube.com/vi/2nYGCB4xgNQ/hqdefault.jpg)](https://youtu.be/2nYGCB4xgNQ)
 
 
 ## Cluster Components

@@ -16,6 +16,7 @@
 - [Introduction](contents/01/)
 - [CIS Benchmark](contents/02/)
 - [Install your own cluster](contents/03/)
+- [Components and certificates](contents/04/)
 ---
 
 > [!IMPORTANT]  

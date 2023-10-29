@@ -78,4 +78,6 @@ kubectl get nodes --server https://172.16.16.100:6443 --client-key marcelo.key -
 
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
 - [Generate Certificates Manually](https://kubernetes.io/docs/tasks/administer-cluster/certificates/)
+- [How certificates are used by your cluster](https://kubernetes.io/docs/setup/best-practices/certificates/)
 - [Certificate Management with kubeadm](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/)
+- [get_certificate shell function](https://github.com/mmmarceleza/dotfiles/blob/main/zsh/.shell_functions)

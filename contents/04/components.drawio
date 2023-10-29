@@ -1,67 +1,68 @@
-<mxfile host="Electron" modified="2023-10-10T22:20:27.762Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="iEEqBNsScFJNvYS5BqCH" version="22.0.2" type="device" pages="2">
+<mxfile host="Electron" modified="2023-10-29T21:16:09.564Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="6yoRs5WD_dxavCYHXCYK" version="22.0.3" type="device" pages="2">
   <diagram name="cluster components" id="_nBc9AkBgFvsw1HyyEVh">
-    <mxGraphModel dx="988" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="170" width="760" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-18" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;CONTROL-PLANE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-18" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;CONTROL-PLANE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="220" width="200" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;jumpStyle=none;rounded=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-2">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;jumpStyle=none;rounded=1;" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-1" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;API SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-1" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;API SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="381" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-2" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;ETCD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-2" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;ETCD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="310" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-3" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;SCHEDULER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="g629reH9PmtIXJUzGvJF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-3" target="wTbyC-EU_CzZAhY8qv7Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="521" />
+              <mxPoint x="360" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-3" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;SCHEDULER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="405" y="501" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-4" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g629reH9PmtIXJUzGvJF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-4" target="wTbyC-EU_CzZAhY8qv7Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="571" />
+              <mxPoint x="360" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-4" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="405" y="551" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-5" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;CONTROLLER&lt;br&gt;MANAGER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="g629reH9PmtIXJUzGvJF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="471" />
+              <mxPoint x="360" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-5" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;CONTROLLER&lt;br&gt;MANAGER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="400" y="451" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-6" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBELET&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-6" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBELET&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="405" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="401" />
-              <mxPoint x="360" y="475" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="401" />
-              <mxPoint x="360" y="526" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="401" />
-              <mxPoint x="360" y="574" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="250" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="270" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-6">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="401" />
@@ -69,130 +70,130 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-24" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;WORKER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;arcSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-24" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;WORKER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;arcSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="590" y="220" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-29" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-29" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="650" y="350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-31" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBELET&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-31" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBELET&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="650" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="250" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="270" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-29">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;flowAnimation=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-31">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;flowAnimation=1;" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-40" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;WORKER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;arcSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-40" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;WORKER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;arcSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="90" y="220" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-41" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-41" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="150" y="350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-42" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBELET&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-42" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;KUBELET&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="150" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="250" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="270" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-41">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;flowAnimation=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;flowAnimation=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-42">
+        <mxCell id="wTbyC-EU_CzZAhY8qv7Y-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;flowAnimation=1;startArrow=classic;startFill=1;" parent="1" source="wTbyC-EU_CzZAhY8qv7Y-1" target="wTbyC-EU_CzZAhY8qv7Y-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rQWpudRgO9kre4biEEUd" name="certificates">
-    <mxGraphModel dx="1430" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wuafaOkJLmZ4BkrvByXg-1" value="CLIENTS CERTIFICATES" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;fontFamily=Virgil;fontSource=https%3A%2F%2Fvirgil.excalidraw.com%2FVirgil.woff2;" vertex="1" parent="1">
+        <mxCell id="wuafaOkJLmZ4BkrvByXg-1" value="CLIENTS CERTIFICATES" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;fontFamily=Virgil;fontSource=https%3A%2F%2Fvirgil.excalidraw.com%2FVirgil.woff2;" parent="1" vertex="1">
           <mxGeometry x="470" y="310" width="292.61" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="vo7BePCMcE_eugOk-m41-1" value="SERVER CERTIFICATES" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;fontFamily=Virgil;fontSource=https%3A%2F%2Fvirgil.excalidraw.com%2FVirgil.woff2;" vertex="1" parent="1">
+        <mxCell id="vo7BePCMcE_eugOk-m41-1" value="SERVER CERTIFICATES" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;fontFamily=Virgil;fontSource=https%3A%2F%2Fvirgil.excalidraw.com%2FVirgil.woff2;" parent="1" vertex="1">
           <mxGeometry x="87.39" y="310" width="292.61" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-1" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;API SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-1" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;API SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="350" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-4" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;apiserver.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-4" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;apiserver.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="373.25" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-7" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;apiserver.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-7" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;apiserver.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="389.25" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-8" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;ETCD SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-8" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;ETCD SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="120" y="480" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-9" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;etcdserver.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-9" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;etcdserver.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="503.25" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-10" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;etcdserver.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-10" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;etcdserver.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="519.25" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-11" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBELET SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-11" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBELET SERVER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="120" y="610" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-12" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kubelet.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-12" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kubelet.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="633.25" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-13" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kubelet.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-13" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kubelet.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="649.25" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-14" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBE-SCHEDULER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-14" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBE-SCHEDULER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="510" y="350" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-15" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;schedular.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-15" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;schedular.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="373.25" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-16" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;schedular.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-16" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;schedular.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="389.25" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-17" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBE-CONTROLLER&lt;br&gt;MANAGER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-17" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBE-CONTROLLER&lt;br&gt;MANAGER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="510" y="640" width="220" height="102.25" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-18" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;controller-&lt;br&gt;manager.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-18" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;controller-&lt;br&gt;manager.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="677" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-19" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;controller-&lt;br&gt;manager.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=13;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-19" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;controller-&lt;br&gt;manager.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=13;" parent="1" vertex="1">
           <mxGeometry x="640" y="689.88" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-21" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-21" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;KUBE-PROXY&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="510" y="480" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-22" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kube-&lt;br&gt;proxy.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-22" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kube-&lt;br&gt;proxy.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="515.5" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-23" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kube-&lt;br&gt;proxy.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-23" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;kube-&lt;br&gt;proxy.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="531.5" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-25" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;ADMIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-25" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot; style=&quot;font-size: 16px;&quot;&gt;ADMIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="510" y="780" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-26" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;admin.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-26" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;admin.crt&lt;/font&gt;" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="803.25" width="57.39" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-27" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;admin.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-27" value="&lt;font data-font-src=&quot;https://virgil.excalidraw.com/Virgil.woff2&quot; face=&quot;Virgil&quot;&gt;admin.key&lt;/font&gt;" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#000000;strokeColor=none;labelPosition=center;spacingTop=0;spacingBottom=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="819.25" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="GSs-hPfKLNHSaouNKxtz-28" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+        <mxCell id="GSs-hPfKLNHSaouNKxtz-28" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="569" y="756" width="21" height="21" as="geometry" />
         </mxCell>
       </root>

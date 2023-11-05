@@ -54,7 +54,7 @@ openssl x509 -text -noout -in devops.crt
 ```
 
 > [!NOTE]  
-> Tip: there is a graphical tool to inspect the certificates called `xca`
+> Tip: there is a graphical tool to inspect the certificates called [`xca`](https://hohnstaedt.de/xca/)
 
 - Get apiserver address:
 
@@ -153,9 +153,6 @@ kubectl get csr developer -o jsonpath='{.status.certificate}'|base64 -d>develope
 openssl x509 -text -noout -in developer.crt
 ```
 
-> [!NOTE]  
-> Tip: there is a graphical tool to inspect the certificates called `xca`
-
 - Get apiserver address:
 
 ```
@@ -220,4 +217,5 @@ kubectl auth can-i delete pod --kubeconfig developer.kubeconfig
 ## References
 
 - [Certificates and Certificate Signing Requests](https://kubernetes.io/docs/reference/access-authn-authz/certificate-signing-requests/)
-
+- [Certificates from Scratch - X.509 Certificates explained](https://youtu.be/kAaIYRJoJkc)
+- [xca](https://hohnstaedt.de/xca/)

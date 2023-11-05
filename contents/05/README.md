@@ -60,7 +60,7 @@ openssl x509 -text -noout -in devops.crt
 
 ```
 kubectl cluster-info # to get the apiserver address
-APISERVER_ENDPOINT=https://127.0.0.1:
+APISERVER_ENDPOINT=https://127.0.0.1:API_PORT
 ```
 > [!IMPORTANT]  
 > Check with the following command if you can reach the apiserver endpoint: `curl -k $APISERVER_ENDPOINT/version`
@@ -157,7 +157,7 @@ openssl x509 -text -noout -in developer.crt
 
 ```
 kubectl cluster-info # to get the apiserver address
-APISERVER_ENDPOINT=https://127.0.0.1:44181
+APISERVER_ENDPOINT=https://127.0.0.1:API_PORT
 ```
 > [!IMPORTANT]  
 > Check with the following command if you can reach the apiserver endpoint: `curl -k $APISERVER_ENDPOINT/version`

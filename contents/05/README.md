@@ -4,7 +4,7 @@
 
 | English | Portuguese |
 |----------|:-------------:|
-| [![english](https://i.ytimg.com/vi/xxxxxxxxxx/hqdefault.jpg)](https://youtu.be/xxxxxxxxxxx) | [![portuguese](https://img.youtube.com/vi/xxxxxxxxxx/hqdefault.jpg)](https://youtu.be/xxxxxxxxxxx)
+| [![english](https://i.ytimg.com/vi/hvHbNxYG75w/hqdefault.jpg)](https://youtu.be/hvHbNxYG75w) | [![portuguese](https://img.youtube.com/vi/KtlsB4twOl8/hqdefault.jpg)](https://youtu.be/KtlsB4twOl8)
 
 ## Challenge
 
